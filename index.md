@@ -1,8 +1,8 @@
-## Welcome to Benjamin's Website
+## Welcome to Benjamin's Website 
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Benjamin's First CS193 Homework
+- I like the fact that this class seems pretty stress-free
+- Honestly I don't know much else about CS193
 
 ### Markdown
 
